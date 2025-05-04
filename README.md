@@ -28,8 +28,8 @@ Our aim is to benchmark these methods and identify the most effective approach f
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/anudeepeloori/twitter-disaster-analysis.git
-cd twitter-disaster-analysis
+git clone https://github.com/anudeepeloori/TwitterDisasterAnalysis.git
+cd TwitterDisasterAnalysis
 ```
 
 ### 2. Install Dependencies
